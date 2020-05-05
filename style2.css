@@ -1,0 +1,144 @@
+.color{
+    background-color:rgb(49, 109, 195);
+    height: 50px;
+}
+
+.list li{
+    display: inline-block;
+    list-style: none;
+    margin: 8px;
+}
+
+.para{
+
+    color: white;
+    font-size: 12px;
+}
+
+.inline{
+
+    list-style: none;
+    display: inline-block;
+}
+
+
+
+.topbutton{
+    padding: 2px;
+    border-radius: 8px;
+}
+
+
+
+.logo{
+    height: 48px;
+    margin-left: 70px;
+}
+
+.left{
+   padding: 10px;
+}
+
+.blue{
+
+    background-color:rgb(49, 109, 195);
+
+}
+
+.heading h2{
+    display: inline-block;
+    font-family: Merriweather, serif;
+    font-weight: bold;
+}
+
+.green{
+    color: #427900;
+}
+
+.lightblue{
+    color:rgb(49, 109, 195);
+}
+
+.intropara{
+
+    text-align: justify;
+}
+
+.shineblue{
+
+    background-color: rgba(36, 79, 242, 0.9);
+    height: 200px;
+}
+
+.shineblue h2,h5{
+    font-size: 15px;
+}
+
+.box{
+    height: 150px;
+     background-color:white;
+    box-shadow:2px 2px 2px 2px silver;
+    margin: 10px;
+    padding: 20px;
+    
+   
+}
+
+.grid1{
+
+    background-color:rgb(247, 248, 250);
+    height: 70px;
+    width: 350px;
+    padding-left: 100px;
+    border: 1px solid silver;
+    display: inline-block;
+    margin: 5px;
+  
+} 
+
+.textsize{
+
+    color: rgb(49, 109, 195);
+    font-size: 18px;
+    font-family: Merriweather, serif;
+    font-weight: bold;
+}
+
+.footercolor{
+    height: 400px;
+    background-color:#322F39;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: Merriweather, serif;
+}
+
+.footerul li{
+    list-style: none;
+
+}
+
+.right{
+    padding-left: 40px;
+}
+
+.userlinks{
+
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: Merriweather, serif;
+    padding-top: 60px;
+}
+
+.icon li{
+    display: inline-block;
+    list-style: none;
+    margin: 8px;
+    
+}
+
+.copyright{
+
+    background-color:rgb(49, 109, 195);
+    height: 40px;
+}
